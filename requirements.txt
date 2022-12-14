@@ -1,0 +1,8 @@
+#pip install -r .\requirements.txt
+
+flask
+python-dotenv  #virtual environment
+flask_smorest  #documentation
+pyodbc  #for database
+mysql-connector-python
+argon2-cffi #kdf 
